@@ -114,7 +114,6 @@ public class hotelCheck {
         if (!hotelExists) {
             System.out.println("Hotel with ID " + idToUpdate + " does not exist.");
         }
-        sc.close();
     }
 
     // DELETE HOTEL
